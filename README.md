@@ -1,6 +1,6 @@
 # Portfolio — I Komang Swastika Adnyana
 
-Website portofolio pribadi dibangun dengan **Next.js 14** (App Router) dan **Tailwind CSS**.
+Website portofolio pribadi dibangun dengan menggunakan **Next.js 14** (App Router) dan **Tailwind CSS**.
 
 ## Fitur
 
