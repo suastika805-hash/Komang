@@ -36,8 +36,8 @@ export const skills: Skill[] = [
 export const skillCategories = ["Frontend", "Backend", "Tools"];
 
 export const stats = [
-  { label: "Proyek Selesai", value: "4+" },
+  { label: "Masih Prototype", value: "4+" },
   { label: "Teknologi", value: "10+" },
-  { label: "Tahun Belajar", value: "3+" },
-  { label: "Komitmen", value: "100%" },
+  { label: "Tahun Belajar", value: "1+" },
+  { label: "Komitmen", value: "80%" },
 ];
