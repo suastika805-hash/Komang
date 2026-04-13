@@ -71,7 +71,7 @@ portfolio/
 
 | Route | Tipe | Keterangan |
 |---|---|---|
-| `/` | Static | Home dengan Hero, About, Skills, Featured Projects |
+| `/Home` | Static | Home dengan Hero, About, Skills, Featured Projects |
 | `/about` | Static | Profil lengkap dan skill |
 | `/projects` | Static | Semua proyek + filter kategori |
 | `/projects/[slug]` | **Dynamic** | Detail per proyek |
