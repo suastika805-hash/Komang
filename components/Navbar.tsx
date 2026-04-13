@@ -51,7 +51,7 @@ export default function Navbar() {
       <nav className="max-w-6xl mx-auto px-5 h-16 flex items-center justify-between">
         {/* Logo */}
         <Link href="/" className="font-display font-bold text-xl tracking-tight dark:text-white text-gray-900">
-          swa<span className="text-accent">.</span>
+          KSA<span className="text-accent">.</span>
         </Link>
 
         {/* Desktop links */}
