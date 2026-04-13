@@ -60,7 +60,7 @@ export default function HeroSection() {
             <h1 className="text-5xl sm:text-6xl font-display font-bold dark:text-white text-gray-900 leading-tight mb-4 animate-fade-up">
               I Komang
               <br />
-              <span className="text-accent">Swastika</span>
+              <span className="text-accent">Swastika Adnyana</span>
             </h1>
 
             {/* Typing role */}
@@ -73,7 +73,7 @@ export default function HeroSection() {
 
             {/* Bio */}
             <p className="text-base sm:text-lg dark:text-gray-400 text-gray-600 max-w-md mb-10 leading-relaxed animate-fade-up mx-auto md:mx-0" style={{ animationDelay: "0.2s", opacity: 0, animationFillMode: "forwards" }}>
-              Mahasiswa Informatika di Bali yang suka membangun antarmuka web yang bersih dan modern.
+              Mahasiswa Informatika di Bali yang masih belajar membangun antarmuka web yang bersih dan modern. 
             </p>
 
             {/* CTAs */}
