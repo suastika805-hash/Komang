@@ -21,7 +21,8 @@ export default function ProjectsPage() {
           Semua Proyek
         </h1>
         <p className="dark:text-gray-400 text-gray-600 text-lg mb-12">
-          Proyek yang telah saya kerjakan — dari tugas kuliah hingga proyek mandiri.
+          Proyek yang telah saya kerjakan — dari tugas kuliah hingga proyek mandiri. 
+          Proyek saya masih dalam bentuk prototype, belum sepenuhnya jadi dan akan saya kembangkan nantinya.
         </p>
 
         {/* Client component untuk filter interaktif */}
