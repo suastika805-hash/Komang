@@ -4,7 +4,7 @@ import { useEffect, useState } from "react";
 import Link from "next/link";
 import Image from "next/image";
 
-const roles = ["Web Developer", "UI Enthusiast", "Next.js Learner", "Mahasiswa Informatika"];
+const roles = ["Web Developer", "Mahasiswa Informatika", "Primakara University"];
 
 export default function HeroSection() {
   const [roleIdx, setRoleIdx] = useState(0);
