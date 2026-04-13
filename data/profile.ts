@@ -12,9 +12,9 @@ export const profile = {
   universitas: "Universitas Primakara",
   angkatan: "2024",
   bio: "Mahasiswa Informatika yang antusias dalam pengembangan web modern. Suka membangun antarmuka yang bersih, cepat, dan mudah digunakan. Sedang mendalami Next.js, TypeScript, dan ekosistem web modern.",
-  email: "swastika805@gmail.com",
+  email: "suastika805@gmail.com",
   github: "https://github.com/suastika805-hash",
-  location: "Bali, Indonesia",
+  location: "Lunyuk, Sumbawa, Nusa Tenggara Barat, Indonesia",
   available: true,
 };
 
