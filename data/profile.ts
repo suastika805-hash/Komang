@@ -9,7 +9,7 @@ export const profile = {
   nickname: "Swastika",
   nim: "2401020075",
   jurusan: "Informatika",
-  Universitas: "Universitas Primakara",
+  kampus: "Universitas Primakara",
   angkatan: "2024",
   bio: "Mahasiswa Informatika yang antusias dalam belajar pengembangan web modern. Suka membangun antarmuka yang bersih, cepat, dan mudah digunakan. Sedang mendalami Next.js, TypeScript, dan ekosistem web modern.",
   email: "suastika805@gmail.com",
