@@ -4,21 +4,21 @@ Website portofolio pribadi dibangun dengan menggunakan **Next.js 14** (App Route
 
 ## Fitur
 
-- ✅ **4 Halaman**: Home, About, Projects, Contact
-- ✅ **Dynamic Route**: `/projects/[slug]` — halaman detail per proyek
-- ✅ **Server Components** & **Client Components** (`"use client"`)
-- ✅ **Dark mode / Light mode** toggle (disimpan di localStorage)
-- ✅ **Responsive Design** — mobile, tablet, desktop
-- ✅ **Form validasi** client-side dengan `useState`
-- ✅ **Filter proyek** berdasarkan kategori dengan `useState`
-- ✅ **Animasi scroll** menggunakan `useEffect` + IntersectionObserver
-- ✅ **Typing animation** di Hero menggunakan `useState` + `useEffect`
-- ✅ **Data statis** dari `/data/projects.ts` dan `/data/profile.ts`
-- ✅ **`next/link`** untuk semua navigasi
+- 4 Halaman**: Home, About, Projects, Contact
+- Dynamic Route**: `/projects/[slug]` — halaman detail per proyek
+- Server Components** & **Client Components** (`"use client"`)
+- Dark mode / Light mode** toggle (disimpan di localStorage)
+- Responsive Design** — mobile, tablet, desktop
+- Form validasi** client-side dengan `useState`
+- Filter proyek** berdasarkan kategori dengan `useState`
+- Animasi scroll** menggunakan `useEffect` + IntersectionObserver
+- Typing animation** di Hero menggunakan `useState` + `useEffect`
+- Data statis** dari `/data/projects.ts` dan `/data/profile.ts`
+- Next/link untuk semua navigasi
 
-## Cara Menjalankan Lokal
+Cara Menjalankan Lokal
 
-```bash
+``bash
 # 1. Clone repo
 git clone https://github.com/suastika805-hash/portfolio.git
 cd portfolio
