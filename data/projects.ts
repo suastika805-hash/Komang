@@ -11,7 +11,6 @@ export type Project = {
   featured: boolean;
   emoji: string;
 };
-
 export const projects: Project[] = [
   {
     slug: "portfolio-website",
@@ -66,10 +65,22 @@ export const projects: Project[] = [
     featured: false,
     emoji: "☕",
   },
+  {
+    slug: "kasdesa-pencatatan-kas",
+    title: "KasDesa — Pencatatan Iuran RT/Kas Kelas",
+    description: "Aplikasi web pencatatan kas/iuran RT dengan tagihan, grafik statistik, kwitansi, dan notifikasi WhatsApp.",
+    longDescription:
+      "Aplikasi web lengkap untuk bendahara RT atau kelas, dibangun dengan Next.js 14, Tailwind CSS, dan Supabase. Fitur meliputi login bendahara via Supabase Auth, CRUD data warga, pembuatan tagihan per periode, penandaan status lunas/menunggak, filter dan pencarian, grafik statistik bar dan pie chart dengan Recharts, riwayat pembayaran per warga, cetak kwitansi otomatis, serta pengingat tagihan via WhatsApp menggunakan link wa.me. Data tersinkronisasi real-time menggunakan Supabase Realtime.",
+    tech: ["Next.js 14", "TypeScript", "Tailwind CSS", "Supabase", "Recharts"],
+    category: "Web Development",
+    year: "2025",
+    github: "https://github.com/suastika805-hash/Pencatatan-kas-desa",
+    demo: "https://pencatatan-kas-desa.vercel.app",
+    featured: true,
+    emoji: "🏘️",
+  },
 ];
-
 export function getProjectBySlug(slug: string): Project | undefined {
   return projects.find((p) => p.slug === slug);
 }
-
 export const projectCategories = ["Semua", "Web Development", "Frontend"];
